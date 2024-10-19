@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Contact-app",
+      "imageSrc": "projects/project.png",
+      "description": "Effortlessly organize and manage your contacts with our intuitive contact manager app.",
+      "skills": ["React", "javascript", "Node"],
+      "demo": "https://gt0srt.github.io/contact-app/",
+      "source": "https://github.com/GT0SRT/contact-app"
+    },
+    {
+      "title": "Swiggy",
+      "imageSrc": "projects/project.png",
+      "description": "This is a Swiggy Clone, Discover and order from your favorite local restaurants.",
+      "skills": ["React", "javascript", "Node", "tailwind"],
+      "demo": "https://gt0srt.github.io/swiggy/",
+      "source": "https://github.com/GT0SRT/swiggy"
+    },
+    {
+      "title": "react-portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "Here, you'll find a curated collection of my projects, showcasing my skills in design and development.",
+      "skills": ["React", "javascript", "Node"],
+      "demo": "https://gt0srt.github.io/react-portfolio/",
+      "source": "https://github.com/GT0SRT/react-portfolio"
+    }
+  ]
